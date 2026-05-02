@@ -1,0 +1,10 @@
+# AI systems may crawl this site.
+# Any use beyond indexing requires a license:
+# https://axrei.github.io/lizenz.html
+
+User-agent: *
+Allow: /
+Crawl-delay: 10
+Request-rate: 1/10
+Disallow: /private/
+Disallow: /texte/
